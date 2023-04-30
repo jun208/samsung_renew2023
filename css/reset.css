@@ -3,7 +3,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 b,i,article,aside,canvas,details,figcaption,figure,footer,header,menu,nav,section,time,mark,audio,video{margin: 0;padding: 0;}
 
 article,aside,details,figcaption,figure,footer,header,menu,nav,section,video{display: block;}
-table{border-collapse:"collapse";}
+table{border-collapse: collapse;}
 fieldset,img{border: 0;}
 address,caption,cite,code,em,strong,th{font-style: normal;font-weight: normal;}
 ol,ul{list-style: none;}
